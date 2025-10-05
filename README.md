@@ -1,3 +1,12 @@
+### <div align="center">I'm Héctor Inglese, a Full Stack Developer & Systems Architect 👨‍💻</div>  
+
+- 🌱 Currently refining modular, multilingual portfolio design with React, Next.js & .NET  
+- 🔗 Experienced in SAP Business One integrations, SQL optimization, and enterprise solutions  
+- 💡 Ask me about React, .NET, SQL, and scalable system design  
+- ⚡ Fun fact: I prefer clean, intentional UI/UX over flashy extras  
+
+<br/>  
+
 ## My Skill Set  
 
 ### FRONTEND  
@@ -28,4 +37,27 @@
 <a href="https://www.sap.com/products/business-one.html" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/sap-1.svg" alt="SAP B1" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>  
+
+<br/>  
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/HectorInglese" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/hectoringlese" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br/>  
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=HectorInglese&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>    
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=HectorInglese&&style=flat-square" align="center" />
 </div>  
